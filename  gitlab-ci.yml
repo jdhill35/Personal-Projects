@@ -1,0 +1,7 @@
+stages:
+  - intro
+
+intro:
+stage: intro
+script: 
+  - echo "Howdy"
